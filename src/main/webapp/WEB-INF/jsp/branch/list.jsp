@@ -13,6 +13,5 @@
 <c:forEach items="${branchs }"  var="branch">
 		${branch.id} --> ${branch.name} --> ${ branch.short_name}  --> ${ branch.come_time}<br>
 	</c:forEach>
-	545
 </body>
 </html>
